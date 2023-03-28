@@ -4,3 +4,5 @@ O projeto Brasil em Imagens é um projeto de API que possui endpoints para custo
 
 # WIP
 Este projeto ainda esta em desenvolvimento e nao pode ser acessado
+
+# MIT LICENSE
